@@ -9,7 +9,7 @@ export default function App() {
     <div>
       <BrowserRouter>
         <div className="bg-white">
-          <div className="container flex justify-between items-center mx-auto my-2">
+          <div className="container flex justify-between items-center mx-auto my-2 px-2">
             <a href="/">
               <Logo />
             </a>
