@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/Inter/Inter-VariableFont_slnt,wght.ttf");
+}
+
+@font-face {
+  font-family: "Archivo_Narrow";
+  src: url("/fonts/Archivo_Narrow/ArchivoNarrow-VariableFont_wght.ttf");
+}
+
+@font-face {
+  font-family: "Italianno";
+  src: url("/fonts/Italianno/Italianno-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Oswald";
+  src: url("public/fonts/Oswald/Oswald-VariableFont_wght.ttf");
+}
+
+@font-face {
+  font-family: "Oxanium";
+  src: url("/fonts/Oxanium/Oxanium-VariableFont_wght.ttf");
+}
+
+@font-face {
+  font-family: "K2D";
+  src: url("/fonts/K2D/K2D-MediumItalic.ttf");
+}
+
+@font-face {
+  font-family: "Kalam";
+  src: url("/fonts/Kalam/Kalam-Regular.ttf");
+}
+
+@font-face {
+  font-family: "DancingScript";
+  src: url("/fonts/dancing-script/DancingScript.woff");
+}
